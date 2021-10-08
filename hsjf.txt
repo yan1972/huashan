@@ -8,4 +8,4 @@ more: git config --global http.proxy 'socks5://127.0.0.1:10808'
 git config --global https.proxy 'socks5://127.0.0.1:10808'
 git config --global https.proxy socks5://127.0.0.1:10808
 add 控制面板\用户帐户和家庭安全\凭据管理器 yan1972 and token as pswd in win7
-uncomment hosts for github.com ect,and ipconfig /flushdns
+uncomment hosts for github.com ect,and ipconfig \//flushdns
